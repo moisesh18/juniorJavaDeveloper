@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=fechaCaducidad\ lote
+comment0.target=ProductosCongelados(java.lang.String,\ int)
+comment1.params=temperatura
+comment1.target=void\ settemperatura(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ gettemperatura()
+comment3.params=
+comment3.target=void\ mostrarSaludo()
+numComments=4

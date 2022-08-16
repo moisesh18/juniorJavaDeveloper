@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ crearGUI()
+comment10.params=evento
+comment10.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment11.params=evento
+comment11.target=void\ mouseExited(java.awt.event.MouseEvent)
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=window
+comment3.target=void\ empezar(java.awt.Container)
+comment4.params=c
+comment4.target=void\ opciones(int)
+comment5.params=Buscaminas\ f\ c
+comment5.target=int\ CuentaVecinos(char[][],\ int,\ int)
+comment6.params=f\ c
+comment6.target=void\ destapavisual(int,\ int)
+comment7.params=oculto\ Buscaminas\ f\ c
+comment7.target=void\ destapaSerie(char[][],\ char[][],\ int,\ int)
+comment8.params=evento
+comment8.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment9.params=evento
+comment9.target=void\ mouseReleased(java.awt.event.MouseEvent)
+numComments=12

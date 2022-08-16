@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=fechaCaducidad\ lote
+comment0.target=Productos(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getfechaCaducidad()
+comment2.params=
+comment2.target=int\ getlote()
+numComments=3

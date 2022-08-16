@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lista()
+comment1.params=raiz
+comment1.target=Lista(Nodo)
+comment2.params=
+comment2.target=Nodo\ getRaiz()
+comment3.params=x
+comment3.target=void\ setRaiz(Nodo)
+comment4.params=x
+comment4.target=void\ agregarFinal(Nodo)
+comment5.params=x
+comment5.target=Nodo\ agregarPrincipio(Nodo)
+comment6.params=
+comment6.target=void\ imprimir()
+comment7.params=
+comment7.target=void\ eliminaPrincipioSimple()
+comment8.params=
+comment8.target=Nodo\ eliminaPrincipio()
+comment9.params=
+comment9.target=Nodo\ eliminarFinal()
+numComments=10

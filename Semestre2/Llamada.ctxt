@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Llamada()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ createGUI()
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

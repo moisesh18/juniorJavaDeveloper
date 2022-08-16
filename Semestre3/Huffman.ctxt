@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String)
+comment1.params=temp\ orden
+comment1.target=void\ preorden(NodoH,\ java.util.Vector)
+comment2.params=temp\ path
+comment2.target=void\ prefijo(NodoH,\ java.lang.String)
+comment3.params=temp\ path
+comment3.target=void\ print(NodoH,\ java.lang.String)
+comment4.params=orden\ primero\ tama\u00F1o
+comment4.target=java.util.Vector\ ordenar(java.util.Vector,\ java.util.Vector,\ int)
+numComments=5

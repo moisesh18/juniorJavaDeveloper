@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=fechaCaducidad\ lote
+comment0.target=ProductosRefrigerados(java.lang.String,\ int)
+comment1.params=codigo_organismo
+comment1.target=void\ setcodigo_organismo(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getcodigo_organismo()
+comment3.params=
+comment3.target=void\ mostrarSaludo()
+numComments=4

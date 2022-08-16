@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arbol()
+comment1.params=x
+comment1.target=void\ imprimirNivel(NodoBi)
+comment2.params=x
+comment2.target=void\ imprimirPreOrden(NodoBi)
+comment3.params=x
+comment3.target=void\ imprimirEnOrden(NodoBi)
+comment4.params=x
+comment4.target=void\ imprimirPostOrden(NodoBi)
+numComments=5

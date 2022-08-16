@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NodoBi()
+comment1.params=info
+comment1.target=NodoBi(int)
+comment2.params=
+comment2.target=int\ getInfo()
+comment3.params=
+comment3.target=NodoBi\ getLeft()
+comment4.params=
+comment4.target=NodoBi\ getRigth()
+comment5.params=
+comment5.target=NodoBi\ getUp()
+comment6.params=info
+comment6.target=void\ setInfo(int)
+comment7.params=left
+comment7.target=void\ setLeft(NodoBi)
+comment8.params=rigth
+comment8.target=void\ setRigth(NodoBi)
+comment9.params=up
+comment9.target=void\ setUp(NodoBi)
+numComments=10

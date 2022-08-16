@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=NaveEspacial(short,\ short)
+comment1.params=
+comment1.target=void\ arriba()
+comment2.params=
+comment2.target=void\ abajo()
+comment3.params=
+comment3.target=void\ izquierda()
+comment4.params=
+comment4.target=void\ derecha()
+numComments=5

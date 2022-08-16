@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=f\ c
+comment0.target=Ubic(int,\ int)
+comment1.params=
+comment1.target=int\ getF()
+comment2.params=
+comment2.target=int\ getC()
+comment3.params=f
+comment3.target=void\ setF(int)
+comment4.params=c
+comment4.target=void\ setC(int)
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NodoD()
+comment1.params=info
+comment1.target=NodoD(int)
+comment2.params=
+comment2.target=int\ getInfo()
+comment3.params=
+comment3.target=NodoD\ getPtrForward()
+comment4.params=
+comment4.target=NodoD\ getPtrBack()
+comment5.params=info
+comment5.target=void\ setInfo(int)
+comment6.params=ptr
+comment6.target=void\ setPtrForward(NodoD)
+comment7.params=ptr
+comment7.target=void\ setPtrBack(NodoD)
+numComments=8

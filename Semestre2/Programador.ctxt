@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nombre\ apellidos\ edad
+comment0.target=Programador(java.lang.String,\ java.lang.String,\ int)
+comment1.params=SO_Favorito
+comment1.target=void\ setSO_Favorito(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getSO_Favorito()
+comment3.params=Marca_PC
+comment3.target=void\ setMarca_PC(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMarca_PC()
+comment5.params=
+comment5.target=void\ mostrarSaludos()
+numComments=6

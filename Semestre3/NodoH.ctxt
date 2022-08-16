@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=f\ c
+comment0.target=NodoH(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getF()
+comment10.params=ptr
+comment10.target=void\ setPtrBack(NodoH)
+comment2.params=
+comment2.target=int\ getC()
+comment3.params=
+comment3.target=java.lang.String\ getPath()
+comment4.params=
+comment4.target=NodoH\ getPtrForward()
+comment5.params=
+comment5.target=NodoH\ getPtrBack()
+comment6.params=f
+comment6.target=void\ setF(java.lang.String)
+comment7.params=c
+comment7.target=void\ setC(int)
+comment8.params=path
+comment8.target=void\ setPath(java.lang.String)
+comment9.params=ptr
+comment9.target=void\ setPtrForward(NodoH)
+numComments=11

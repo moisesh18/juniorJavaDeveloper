@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=m\ n
+comment0.target=void\ main(double[][],\ double[])
+comment1.params=a\ n
+comment1.target=void\ imprimir(double[][],\ double[])
+comment2.params=a
+comment2.target=void\ imprimirfinal(double[])
+comment3.params=a\ b
+comment3.target=void\ GaussJordan(double[][],\ double[])
+numComments=4
